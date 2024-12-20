@@ -21,14 +21,16 @@ This project is a chatbot implementation using Logistic Regression for intent cl
 
 1. Clone the repository:
    bash
+   
    git clone https://github.com/Shashidharsomidi/Chatbot.git
+
    cd chatbot
    
-2. Install the required libraries:
+3. Install the required libraries:
    bash
    pip install -r requirements.txt
    
-3. Download NLTK data:
+4. Download NLTK data:
    python
    import nltk
    nltk.download('punkt')
