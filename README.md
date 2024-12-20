@@ -21,7 +21,7 @@ This project is a chatbot implementation using Logistic Regression for intent cl
 
 1. Clone the repository:
    bash
-   git clone https://github.com/your-username/chatbot-logistic-regression.git
+   git clone https://github.com/Shashidharsomidi/Chatbot.git
    cd chatbot
    
 2. Install the required libraries:
