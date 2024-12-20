@@ -28,11 +28,14 @@ This project is a chatbot implementation using Logistic Regression for intent cl
    
 3. Install the required libraries:
    bash
+   
    pip install -r requirements.txt
    
-4. Download NLTK data:
+5. Download NLTK data:
    python
+   
    import nltk
+   
    nltk.download('punkt')
    
 
@@ -41,8 +44,9 @@ This project is a chatbot implementation using Logistic Regression for intent cl
 1. Place your intents in a file named intents.json.
 2. Run the Streamlit application:
    bash
+   
    streamlit run app.py 
-3. Interact with the chatbot in the web interface.
+4. Interact with the chatbot in the web interface.
 
 ## File Structure
 
